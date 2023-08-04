@@ -1,0 +1,20 @@
+{
+    "name": "heron/permission",
+    "description": "统一权限认证接口",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Heron\\Permission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "david",
+            "email": "367013672@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.1"
+    }
+}
